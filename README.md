@@ -1,4 +1,4 @@
-# Week5 Functions: Array Manipulation and Scope
+# Week5 - Functions: Array Manipulation and Scope
 
 ### This week covers:
 
